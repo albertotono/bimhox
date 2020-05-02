@@ -49,8 +49,9 @@ def journey(Module):
 ```
 
 ## Computational Design and Deep Learning 
-{% twitter https://twitter.com/albertotono3/status/1241212009485484032?s=20 %}
+
 
 ## Footnotes
 [^1]: There will be a lot of reference to Disney, Lego and Matrix in this Blog, in order to keep more democratic and open to everyone who will be please to share their time with me.
-[^2]: {% twitter https://twitter.com/FosterPartners/status/1186678477350735872?s=20 %}
+
+
