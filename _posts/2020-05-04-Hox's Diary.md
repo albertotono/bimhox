@@ -13,7 +13,7 @@ This blog is a **diary** of my exploration into the *Alice's rabbit hole*  [^1].
 We will start where everything started: 
 
 **Harbin 2014**
-when in order to communicate with other people we didn't have any possible languages to support our communication, exept the sketches and drawing, based on their skills in drawing I think it is still a miracle that I survived there. 
+when in order to communicate with other people we didn't have any possible languages to support our communication, exept the sketches and drawings. 
 
 ---
 
