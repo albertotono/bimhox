@@ -20,18 +20,18 @@ when in order to communicate with other people we didn't have any possible langu
 ## Agenda
 This is a hypothetical roadmap regarding the future posts for the next year:
 
-1. Introduction - September 2020
-2. Mission - October 2020
-3. Who is HOX - November 2020
-4. History of Sketch - Decembember 2020
-5. Sketch Recognition: Single Category - January 2021
-6. Sketch Recognition: 4 Categories - February 2021
-7. Sketch Recognition: Multicategories - March 2021 
-8. Open-Source Projects: TorchSketch - April 2021
-9. Sketching on the Web - May 2021
-10. Deployment on Tablet - June 2021
-11. CDI Logo and Mission - July 2021
-12. Surprise: August 2021
+1. Introduction
+2. Mission 
+3. Who is HOX 
+4. History of Sketch 
+5. Sketch Recognition: Single Category 
+6. Sketch Recognition: 4 Categories 
+7. Sketch Recognition: Multicategories 
+8. Open-Source Projects: TorchSketch 
+9. Sketching on the Web 
+10. Deployment on Tablet 
+11. CDI Logo and Mission 
+12. Surprise: 
 
 | September | October | November | December | January | February | March | April | May | June | July | August | 
 |Introduction | Mission| Who is HOX | History of Sketch | Sketch Recognition| Sketch Recognition| Sketch Recognition| Open-Source Projects| Sketching on the Web| Deployment on Tablet | CDI Logo and Mission | Surprise |
