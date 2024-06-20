@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About Me
+title: About Bimhox
 permalink: /about/
 ---
 
 <div style="text-align: justify"> 
-You can learn all about me and my project here https://sites.google.com/view/tonoalberto 
+
+
+Author https://sites.google.com/view/tonoalberto and https://www.instagram.com/bimhox/ 
 </div>
 
 
